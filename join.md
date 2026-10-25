@@ -4,14 +4,21 @@ title: 会員募集
 permalink: /join/
 ---
 
-会員募集・参加に関する案内です。
+三鷹市スキー連盟では新入会員を募集しています。  
+入会金及び年会費は以下の通りです。皆様のご入会をお待ちしております。
 
-## お申し込み
+| No | 費用 | 金額 | 備考 |
+|----|------|------|------|
+| 1 | 入会金 | 3,000円 | |
+| 2 | 年会費 | 5,000円 | 3月以降の入会は入会金のみ。 |
+| 3 | 各種SAJ登録料 | 実費 | バッジテスト合格時など。 |
+| 4 | ツアー参加費 | 実費 | 各ツアー内で精算。 |
 
-Google Forms へのリンクをここに掲載します（リンクのみ。埋め込みなし）。
+## お申し込み・お問い合わせ
 
-※ Forms の URL は現行運用のものを確認のうえ追記してください。
+お問い合わせ、お申し込みは [mitaka_ski@yahoo.co.jp](mailto:mitaka_ski@yahoo.co.jp) までご連絡下さい。
 
-## お問い合わせ
+行事への申込は、案内に記載の Google Forms（リンクのみ）をご利用ください。例:
 
-[mitaka_ski@yahoo.co.jp](mailto:mitaka_ski@yahoo.co.jp)
+- [キックオフミーティング申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdXkbefAdQ6YSHWdkSdgdLKdu_Orzl8AIgV1eQd13zgcveLrQ/viewform)
+- [2025年度総会関連フォーム](https://forms.gle/ux28nGX2UwGGxbLq6)

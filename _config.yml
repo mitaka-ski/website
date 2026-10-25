@@ -16,6 +16,7 @@ header_pages:
   - about.md
   - events.md
   - join.md
+  - skitour.md
 
 minima:
   skin: classic
