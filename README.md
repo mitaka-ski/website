@@ -14,10 +14,11 @@ https://mitaka-ski.github.io/website/
 
 お知らせは `_posts/` に `YYYY-MM-DD-title.md` を追加する。ホームには直近最大5件が表示される。
 
-## プラグイン（GitHub Pages 対応）
+## プラグイン・クロール補助（GitHub Pages 対応）
 
 - `jekyll-feed` / `jekyll-seo-tag` / **`jekyll-sitemap`**
 - サイトマップ: ビルド後に `/sitemap.xml`（preview では `/website/sitemap.xml`）
+- **`robots.txt`**: 全許可＋上記 Sitemap を明示（`url` / `baseurl` に追従）
 
 ## 注意
 
