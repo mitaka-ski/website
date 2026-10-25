@@ -1,0 +1,15 @@
+---
+permalink: /404.html
+layout: default
+---
+
+<style>
+  .error-404 { text-align: center; margin: 4rem 1rem; }
+</style>
+<div class="error-404">
+  <h1>ページが見つかりません</h1>
+  <p>トップページへ移動します…</p>
+  <p><a href="{{ '/' | relative_url }}">ホームへ</a></p>
+</div>
+<meta http-equiv="refresh" content="2; url={{ '/' | relative_url }}">
+<script>location.replace("{{ '/' | relative_url }}");</script>

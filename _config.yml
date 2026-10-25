@@ -1,0 +1,34 @@
+title: 三鷹市スキー連盟
+description: Ski Association of Mitaka
+lang: ja
+timezone: Asia/Tokyo
+
+# preview（プロジェクトサイト）。本番カスタムドメイン時は baseurl を "" に変更する
+url: "https://mitaka-ski.github.io"
+baseurl: "/website"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+  - events.md
+  - join.md
+
+minima:
+  skin: classic
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
