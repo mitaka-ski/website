@@ -17,8 +17,3 @@ permalink: /join/
 ## お申し込み・お問い合わせ
 
 お問い合わせ、お申し込みは [mitaka_ski@yahoo.co.jp](mailto:mitaka_ski@yahoo.co.jp) までご連絡下さい。
-
-行事への申込は、案内に記載の Google Forms（リンクのみ）をご利用ください。例:
-
-- [キックオフミーティング申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdXkbefAdQ6YSHWdkSdgdLKdu_Orzl8AIgV1eQd13zgcveLrQ/viewform)
-- [2025年度総会関連フォーム](https://forms.gle/ux28nGX2UwGGxbLq6)
