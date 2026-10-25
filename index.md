@@ -4,9 +4,10 @@ title: ホーム
 permalink: /
 ---
 
+![ゲレンデの様子]({{ "/assets/images/top4_1000.jpeg" | relative_url }})
+
 三鷹市スキー連盟（Ski Association of Mitaka）は、三鷹市体育協会の公認スキークラブです。  
 ウィンターシーズンにスキーツアーやバッジテストを実施し、初めての方からエキスパートまで楽しめる活動を行っています。
-
 ご連絡は [mitaka_ski@yahoo.co.jp](mailto:mitaka_ski@yahoo.co.jp) までお願いいたします。
 
 - [クラブ紹介]({{ "/about/" | relative_url }})
