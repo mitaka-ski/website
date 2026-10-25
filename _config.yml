@@ -3,9 +3,9 @@ description: Ski Association of Mitaka
 lang: ja
 timezone: Asia/Tokyo
 
-# preview（プロジェクトサイト）。本番カスタムドメイン時は baseurl を "" に変更する
-url: "https://mitaka-ski.github.io"
-baseurl: "/website"
+# 本番（カスタムドメイン）。preview URL に戻すときは url を github.io、baseurl を "/website"
+url: "https://mitaka-ski.com"
+baseurl: ""
 
 theme: minima
 plugins:
